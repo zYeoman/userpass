@@ -1,5 +1,11 @@
 # userpass
 
+[![Latest PyPI version](https://img.shields.io/pypi/v/userpass.svg)](https://pypi.org/project/userpass)
+[![Travis CI](https://img.shields.io/travis/zYeoman/userpass/master.svg)](https://travis-ci.org/zYeoman/userpass)
+[![Codecov](https://img.shields.io/codecov/c/github/zYeoman/userpass/master.svg)](https://codecov.io/gh/zYeoman/userpass)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/userpass.svg)](https://pypi.org/project/userpass)
+[![License](https://img.shields.io/pypi/l/userpass.svg)](https://choosealicense.com/licenses)
+
 -----
 
 **Table of Contents**
