@@ -1,0 +1,17 @@
+[metadata]
+name = 'userpass'
+version = '0.1.0'
+description = 'Store username and password at $HOME'
+author = 'Yongwen Zhuang'
+author_email = 'zyeoman@163.com'
+license = 'MIT'
+url = 'https://github.com/zYeoman/userpass'
+
+[requires]
+python_version = ['2.7', '3.5', '3.6', 'pypy', 'pypy3']
+
+[build-system]
+requires = ['setuptools', 'wheel']
+
+[tool.hatch.commands]
+prerelease = 'hatch build'

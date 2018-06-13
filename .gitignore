@@ -1,0 +1,14 @@
+*.log
+*.pyc
+.tox/
+.pytest_cache/
+.cache/
+.coverage
+.idea/
+.vscode/
+userpass.egg-info/
+build/
+dist/
+docs/build/
+venv/
+wheelhouse/
