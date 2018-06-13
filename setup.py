@@ -1,6 +1,6 @@
 from io import open
 
-from setuptools import find_packages, setup
+from setuptools import setup
 
 with open('userpass/__init__.py', 'r') as f:
     for line in f:
@@ -49,5 +49,5 @@ setup(
     install_requires=REQUIRES,
     tests_require=['coverage', 'pytest'],
 
-    packages=find_packages(),
+    packages=['userpass'],
 )
