@@ -8,6 +8,8 @@
 
 -----
 
+Save username and password at `HOME` dir. While it's not so secure, it's very easy to use.
+
 **Table of Contents**
 
 * [Installation](#installation)
